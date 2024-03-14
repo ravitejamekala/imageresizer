@@ -1,0 +1,1 @@
+# This is a Simple CLI python image resizer.
